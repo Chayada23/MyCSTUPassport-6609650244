@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
   }
+  #one{
+    text-align: center;
+  }
     #para1{
     text-align:center;
     color:rgb(15, 134, 202)
@@ -21,6 +24,7 @@
         font-family:'fantasy';
         font-size: x-large;
         text-align: start;
+        text-align: center;
        color:rgb(5, 63, 163); 
          }
     #para4 {
